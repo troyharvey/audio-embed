@@ -1,1 +1,2 @@
-console.log('hi');
+const player = document.getElementById('player');
+console.log(player);
