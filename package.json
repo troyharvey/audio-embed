@@ -18,5 +18,9 @@
   "homepage": "https://github.com/troyharvey/audio-embed#readme",
   "dependencies": {
     "plyr": "^3.5.6"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10"
   }
 }
