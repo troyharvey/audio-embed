@@ -1,2 +1,3 @@
-const player = document.getElementById('player');
-console.log(player);
+import Plyr from 'plyr';
+
+const player = new Plyr('#player');
